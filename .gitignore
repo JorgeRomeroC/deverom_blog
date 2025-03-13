@@ -30,6 +30,15 @@ node_modules/
 npm-debug.log
 yarn-error.log
 
+.DS_Store
+public/.DS_Store
+public/assets/
+resources/views/vendor/
+storage/.DS_Store
+storage/framework/
+storage/logs/
+storage/app/
+storage/blog/
 # Laravel 4 specific
 bootstrap/compiled.php
 app/storage/
